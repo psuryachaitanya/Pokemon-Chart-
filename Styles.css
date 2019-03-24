@@ -1,0 +1,16 @@
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+  }
+
+  table#t01{
+      
+    
+    border: 2px solid  gold;
+  }
+
+  th,td{
+    padding: 10px;
+    text-align: left;
+  }
